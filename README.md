@@ -21,4 +21,4 @@ This Weather Dashboard App is a React-based web application that allows users to
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/repo-name.git
+   git clone https://github.com/Prathme07/Weather-Dashboard
